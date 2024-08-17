@@ -12,8 +12,8 @@ This Chrome extension enhances the video player at [app.procodrr.com](https://ap
   - **Arrow Down**: Decrease volume by 10%.
   - **[**: Decrease playback speed by 0.1x (down to 0.1x).
   - **]**: Increase playback speed by 0.1x (up to 16x).
-  - **D**: Enable dark mode.
-  - **L**: Disable dark mode.
+  - **D**: Enable dark mode. (Coming Soon)
+  - **L**: Disable dark mode. (Coming Soon)
   - **I**: Toggle picture-in-picture mode.
   - **F**: Toggle fullscreen mode.
   - **M**: Mute/Unmute the video.

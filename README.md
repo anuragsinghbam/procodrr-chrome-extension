@@ -26,7 +26,7 @@ Follow the steps below to install the extension manually:
 
 ### Step 1: Download the Extension
 
-1. Download the latest release of the extension from the [releases page](#) (or provide a direct link to the `.zip` file).
+1. Download the extension by clicking the green color **Code** button on the repository and then **Download Zip**.
 2. Unzip the downloaded file to a location of your choice.
 
 ### Step 2: Enable Developer Mode

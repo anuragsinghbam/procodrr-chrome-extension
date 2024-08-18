@@ -24,7 +24,7 @@ This Chrome extension enhances the video player at [app.procodrr.com](https://ap
 
 For a step-by-step video guide on how to install the extension, watch the following video:
 
-[![Watch the video]](https://app.procodrr.com/l/d52e88a92f)
+[[Watch the video]](https://app.procodrr.com/l/d52e88a92f)
 
 ## Installation
 

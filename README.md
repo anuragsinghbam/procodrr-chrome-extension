@@ -20,6 +20,12 @@ This Chrome extension enhances the video player at [app.procodrr.com](https://ap
 
 - **Persistent Playback Speed**: Keeps your preferred playback speed across videos.
 
+## Installation Video Guide
+
+For a step-by-step video guide on how to install the extension, watch the following video:
+
+[![Watch the video](https://img.youtube.com/vi/d1RQVanxGsI/0.jpg)](https://youtu.be/d1RQVanxGsI)
+
 ## Installation
 
 Follow the steps below to install the extension manually:

@@ -1,0 +1,138 @@
+* {
+    transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+}
+
+.header_main {
+    background-color: rgb(22, 22, 22) !important;
+    box-shadow: rgba(255, 255, 255, 0.05) 0px 3px 6px !important;
+}
+
+.page_title_header * {
+    color: white !important;
+}
+
+.time_complete_upload {
+    background-color: rgb(44, 44, 44) !important;
+}
+
+.time_complete_upload .show_files {
+    color: white !important;
+}
+
+.ant-dropdown {
+    background-color: rgb(43, 43, 43) !important;
+}
+
+.ant-dropdown .profileDropdownUserDetails span {
+    color: white !important;
+}
+
+.main_wrapper .ant-tabs-nav[role=tablist] {
+    background-color: rgb(22, 22, 22) !important;
+}
+
+.main_wrapper .ant-tabs-nav[role=tablist]::before {
+    content: unset;
+}
+
+.main_wrapper .ant-tabs-nav[role=tablist] .ant-tabs-extra-content * {
+    color: white !important;
+}
+
+.ant-tabs-nav-list .ant-tabs-tab * {
+    color: rgba(255, 255, 255, 0.75);
+}
+
+.ant-tabs-nav-list .ant-tabs-tab-active * {
+    color: rgba(255, 255, 255, 1) !important;
+}
+
+.ant-tabs-content-holder .ant-tabs-content {
+    background-color: rgb(33, 33, 33) !important;
+}
+
+
+.ant-tabs-content-holder .ant-tabs-content .details_wrapper * {
+    color: white !important;
+}
+
+.ant-tabs-content-holder .ant-tabs-content .commentSectionHeader {
+    color: white !important;
+}
+
+.commentList .commentCard {
+    background-color: rgb(44, 44, 44) !important;
+    box-shadow: 0 1px 2px #ffffff21 !important;
+}
+
+.commentList .commentCard .title,
+.commentList .commentCard .commentDate {
+    color: white !important;
+}
+
+.commentList .commentCard .qna-item__message {
+    color: white !important;
+}
+
+.course_dashboard .chapter_resources {
+    border-bottom: unset !important;
+}
+
+.chapter_resources .white_wrapper {
+    background-color: rgb(55, 55, 55) !important;
+}
+
+.chapter_resources .resources_details .file_details * {
+    color: white !important;
+}
+
+.qaList .qaCard {
+    background-color: rgb(55, 55, 55) !important;
+}
+
+.qaList .qaCard .qaDetails * {
+    color: white !important;
+}
+
+.course-details .ant-layout-sider-children {
+    background-color: rgb(22, 22, 22) !important;
+}
+
+.ant-layout .ant-layout-has-sider .ant-layout-sider {
+    background-color: rgb(22, 22, 22) !important;
+}
+
+.course-details .ant-layout-has-sider .ant-layout-sider {
+    background-color: rgb(22, 22, 22) !important;
+}
+
+.course-details .heading_sidebar {
+    background-color: rgb(22, 22, 22) !important;
+    border-bottom: 1px solid rgb(55, 55, 55);
+}
+
+.course-details .heading_sidebar * {
+    color: #fff !important;
+}
+
+.course-details .sidebar-content {
+    border-color: rgb(55, 55, 55) !important;
+    background-color: rgb(33, 33, 33) !important;
+}
+
+.course-details .menu_sidebar .ant-menu-root .ant-menu-submenu {
+    background-color: rgb(33, 33, 33) !important;
+    border-color: rgb(55, 55, 55);
+}
+
+.course-details .menu_sidebar .ant-menu-root .ant-menu-submenu * {
+    color: #fff !important;
+}
+
+.course-details .menu_sidebar .ant-menu-root .ant-menu-submenu .ant-menu-sub .submenu_content {
+    background-color: rgb(60, 60, 60);
+}
+
+.course-details .ant-layout-has-sider {
+    background-color: rgb(22, 22, 22) !important;
+}
